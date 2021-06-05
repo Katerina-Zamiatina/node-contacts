@@ -1,7 +1,7 @@
 # Получаем и выводим весь список контактов в виде таблицы (console.table)
 > node index.js --action list
 >
-<a href="https://ibb.co/hgB8MPj"><img src="https://ibb.co/Mfp3rrB" alt="1" border="0"></a>
+<a href="https://ibb.co/hgB8MPj"><img src="https://katy-sadii.imgbb.com/" alt="1" border="0"></a>
 <!-- ![alt text](https://ibb.co/hgB8MPj)​ -->
 
 # Получаем контакт по id
