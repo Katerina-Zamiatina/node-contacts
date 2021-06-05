@@ -20,5 +20,9 @@
   "homepage": "https://github.com/Katerina-Zamiatina/node-contacts#readme",
   "devDependencies": {
     "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "prettier": "^2.3.0",
+    "uuid": "^8.3.2"
   }
 }
