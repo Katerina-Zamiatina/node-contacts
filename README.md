@@ -8,7 +8,7 @@
 >
 <img width="784" alt="get" src="https://user-images.githubusercontent.com/68378018/120892641-01676480-c618-11eb-8717-b14a19ba0aa9.png">
 
-# Добавялем контакт
+# Добавляем контакт
 > node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22
 > 
 <img width="1194" alt="add" src="https://user-images.githubusercontent.com/68378018/120892653-09bf9f80-c618-11eb-8306-bacbea00d3db.png">
